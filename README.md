@@ -25,7 +25,7 @@ Demonstração de dois exemplos de gráficos gerados durante a análise dos dado
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/analise-transacoes-de-cartoes.git
+   git clone https://github.com/raphaelp-silva/analise-transacoes-de-cartoes.git
    ```
 2. Instale as dependências necessárias:
    ```bash
